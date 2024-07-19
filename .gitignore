@@ -1,0 +1,5 @@
+# .gitignore
+# Ignore environment variables
+.env
+/backend/.env
+/frontend/.env
